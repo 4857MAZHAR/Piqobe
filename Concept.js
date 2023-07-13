@@ -1,0 +1,3 @@
+function Concept() {
+  return Concept;
+}
